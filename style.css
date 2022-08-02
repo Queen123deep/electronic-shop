@@ -491,14 +491,14 @@ header label{
 .footer .box-container .box p{
     font-size: 1.5rem;
     padding:.5rem 0;
-    color:white;
+    color:pink;
 }
 
 .footer .box-container .box a{
     display: block;
     font-size: 1.5rem;
     padding:.5rem 0;
-    color:white ;
+    color:pink;
 }
 
 .footer .box-container .box a:hover{
@@ -514,7 +514,7 @@ header label{
     margin:.5rem 0;
     margin-right: 1rem;
     border-radius: 50%;
-    background:#fff;
+    background:white;
     color:var(--pink);
     font-size: 1.5rem;
     height:4.5rem;
