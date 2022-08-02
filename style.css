@@ -483,7 +483,7 @@ header label{
 .footer .box-container .box h3{
     font-size: 2.5rem;
     padding:1rem 0;
-    color:#fff;
+    color:black;
     text-decoration: underline;
     text-underline-offset: 1rem;
 }
@@ -491,14 +491,14 @@ header label{
 .footer .box-container .box p{
     font-size: 1.5rem;
     padding:.5rem 0;
-    color:#eee;
+    color:white;
 }
 
 .footer .box-container .box a{
     display: block;
     font-size: 1.5rem;
     padding:.5rem 0;
-    color:#eee;
+    color:white ;
 }
 
 .footer .box-container .box a:hover{
@@ -527,7 +527,7 @@ header label{
     font-size: 2rem;
     font-weight: normal;
     letter-spacing: .1rem;
-    color:#fff;
+    color:black;
     border-top: .1rem solid #fff5;
     padding:2.5rem 1rem;
     text-align: center;
