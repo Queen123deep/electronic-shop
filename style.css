@@ -234,13 +234,13 @@ header label{
 }
 
 .newsletter h3{
-    color:#fff;
+    color:black;
     font-size: 3rem;
     text-transform: uppercase;
 }
 
 .newsletter p{
-    color:#fff;
+    color:black;
     font-size: 1.6rem;
     margin:2rem auto;
     width:70rem;
@@ -267,7 +267,7 @@ header label{
 }
 
 .newsletter form input[type="email"]::placeholder{
-    color:#eee;
+    color:black;
     text-transform: capitalize;
 }
 
